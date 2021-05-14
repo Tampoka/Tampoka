@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tampoka
 - 👀 I’m interested in front end, Web technologies in general and Syber Security.
-- 🌱 I’m currently learning React. (when getting stuck - spinning around my nunchaku.
+- 🌱 I’m currently learning React. (when getting stuck - spinning around my nunchaku...)
 - 💞️ I’m looking to collaborate on Web Development. Have some interesting projects - feel free to contact me.
 
 <!---
