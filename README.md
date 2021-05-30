@@ -25,7 +25,7 @@ const Me = {
 }
 ```
 
-<img src="https://media.giphy.com/media/co5ts6fbbuVcaZThVN/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, feel free to contact me!</b> :)</em>
+<img src="https://media.giphy.com/media/cLAcEsubTdXncWf7Fz/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, feel free to contact me!</b></em>
 ---
 
 
