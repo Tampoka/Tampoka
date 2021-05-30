@@ -1,7 +1,7 @@
 <h2> Hi, I'm Olga Bajetha! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Self-taught developer at <a href="">Working_From_Home</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  </br>Spending <b>free</b> time managing all things around: house, kids, kindergarden, school, kids activity, financial flows<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
+<p><em>Self-taught developer at <a href="">Working_From_Home</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  </br>Spending <b>free</b> time managing all things around: house, kids and all staff related <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: flusk20](https://img.shields.io/twitter/follow/flusk20?style=social)](https://twitter.com/flusk20)
