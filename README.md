@@ -16,10 +16,10 @@ const Me = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS],
   currentlyLearning: [React, Redux, Node, Storybook, Styled-Components],
-  nextToLearn:[MERN Stack]
-  interestedIn: ["Framework-driven-learning", Algorithm, Syber Sec ],
+  nextToLearn:[MERN Stack],
+  interestedIn: [Framework-driven-learning, Algorithm, Syber Sec ],
 
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the #100DaysOfCode challenge focused on React and Typescript"
 }
 ```
 
