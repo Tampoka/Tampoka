@@ -1,5 +1,5 @@
 <h2> Hi, I'm Tampoka! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="230">
 <p><em>Self-taught developer at <a href="">Working_From_Home</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </br>Spending <b>free</b> time managing all things around: house, kids and all staff related <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
 </em></p>
@@ -11,7 +11,7 @@
 [![GitHub Tampoka](https://img.shields.io/github/followers/tampoka?label=follow&style=social)](https://github.com/Tampoka)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+###  A little more about me...  
 
 ```javascript
 const Me = {
@@ -25,7 +25,7 @@ const Me = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, feel free to contact me!</b> :)</em>
+<img src="https://media.giphy.com/media/co5ts6fbbuVcaZThVN/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, feel free to contact me!</b> :)</em>
 ---
 
 
