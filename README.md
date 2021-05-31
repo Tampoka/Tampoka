@@ -29,7 +29,7 @@ const Me = {
 ---
 
 
-<h2 align="center">Git statistics :bar_chart:</h2>
+<h2 align="center">GitHub statistics :bar_chart:</h2>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
