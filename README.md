@@ -21,7 +21,7 @@ const Me = {
   nextToLearn:[MERN Stack],
   interestedIn: [Framework driven learning, Algorithm, Syber Sec ],
 
- challenge: "I am doing the #100DaysOfCode challenge focused on React and Typescript"
+ challenge: "I am doing the #180DaysOfCode challenge focused on React and Typescript"
 }
 ```
 
