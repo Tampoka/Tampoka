@@ -6,9 +6,9 @@
 <p>Keyphrase: <em>component<b>A</b></em> <img src="https://media.giphy.com/media/l1J9MT9T0ZG2xvWCc/giphy.gif" width="40"></p>
 <hr>
 
-[![Twitter: flusk20](https://img.shields.io/twitter/follow/flusk20?style=social)](https://twitter.com/flusk20)
+<!-- [![Twitter: flusk20](https://img.shields.io/twitter/follow/flusk20?style=social)](https://twitter.com/flusk20)
 [![Linkedin: Olga Bajetha](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olga-bajetha-b16a54211/)](https://www.linkedin.com/in/olga-bajetha-b16a54211/)
-[![GitHub Tampoka](https://img.shields.io/github/followers/tampoka?label=follow&style=social)](https://github.com/Tampoka)
+[![GitHub Tampoka](https://img.shields.io/github/followers/tampoka?label=follow&style=social)](https://github.com/Tampoka) -->
 
 
 ###  A little more about me...  
