@@ -19,7 +19,7 @@ const Me = {
   code: [Javascript, Typescript, HTML, CSS],
   currentlyLearning: [React, Redux, Node, Storybook, Styled-Components],
   nextToLearn:[MERN Stack],
-  interestedIn: [Framework driven learning, Algorithm, Syber Sec ],
+  interestedIn: [Framework driven learning, Algorithms, Syber Sec ],
 
  challenge: "I am doing the #180DaysOfCode challenge focused on React and Typescript"
 }
