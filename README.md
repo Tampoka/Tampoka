@@ -29,13 +29,13 @@ const Me = {
 ---
 
 
-<h2 align="center">GitHub statistics :bar_chart:</h2>
+<h2 align="center">GitHub statistics</h2>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Tampoka}/count.svg" alt="Tampoka :: Visitor's Count" /></p>
 
-<h4 align="center">Top languages :tongue:</h4>
+<h4 align="center">Top languages</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tampoka&langs_count=10&theme=tokyonight&layout=compact" alt="Tampoka :: Top Langs" /></p>
 
