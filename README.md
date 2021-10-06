@@ -29,7 +29,7 @@ const Me = {
 ---
 
 
-<h2 align="center">GitHub statistics</h2>
+<h2 align="center">GitHub statistics :barchart:</h2>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
@@ -39,7 +39,7 @@ const Me = {
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tampoka&langs_count=10&theme=tokyonight&layout=compact" alt="Tampoka :: Top Langs" /></p>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<h4 align="center">Profile stats</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tampoka&show_icons=true&theme=synthwave" alt="Tampoka :: Profile Stats" /></p>
 
