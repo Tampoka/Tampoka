@@ -15,7 +15,6 @@
 
 ```javascript
 const Me = {
-  pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS],
   currentlyLearning: [React, Redux, Node, Storybook, Styled-Components],
   nextToLearn:[MERN Stack],
