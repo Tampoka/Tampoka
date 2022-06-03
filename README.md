@@ -15,12 +15,12 @@
 
 ```javascript
 const Me = {
-  code: [Javascript, Typescript, HTML, CSS],
-  currentlyLearning: [React, Redux, Node, Storybook, Styled-Components],
-  nextToLearn:[MERN Stack],
+  code: [React,Redux, Typescript],
+  currentlyLearning: [Graphql],
+  nextToLearn:[React Native],
   interestedIn: [Framework driven learning, Algorithms, Syber Sec ],
 
- challenge: "I am doing the #180DaysOfCode challenge focused on React and Typescript"
+ challenge: "no day without code"
 }
 ```
 
